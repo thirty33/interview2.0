@@ -1,0 +1,13 @@
+.people-item {
+    display: grid;
+    width: 200px;
+    height: 200px;
+}
+
+.people-searcher-container {
+    height: 100px;
+    width: 100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
